@@ -15,7 +15,7 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
-  },
+  }, "api":"https://noobs-api.onrender.com/dipto",
   "adminBot": [
     "100043588132979",
     "",
